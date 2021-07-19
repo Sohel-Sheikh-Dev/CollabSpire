@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109007272146",
+    "project_id": "collabspire",
+    "storage_bucket": "collabspire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109007272146:android:a1f5ed847690865d98950b",
+        "android_client_info": {
+          "package_name": "com.example.collab_spire_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109007272146-v8pr8sqds3nsv5244nb403drvrfh7tge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgHn8KW1YQ2Sh7APeITupt04Kqkmnn0HI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109007272146-v8pr8sqds3nsv5244nb403drvrfh7tge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
